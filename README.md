@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Java, Kotlin**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
-- 📫 How to reach me: chlorella2012@gmail.com
+- 📫 How to reach me: 0x4i5wst@anonaddy.me
 
 </h4>
 </div>
