@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 <p>
 
-- 🌱 I’m currently learning **Java, Kotlin**
+- 🌱 I’m currently working on **Java, Kotlin**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
 - 📫 How to reach me: 0x4i5wst@anonaddy.me
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <div><p>My overview: </p></div>
 
 ![Chlorella's github stats](https://github-readme-stats.vercel.app/api?username=chlorella&show_icons=true)
+![HackerRank](https://www.hackerrank.com/carmenchan23?hr_r=1)
+![FreeCodeCamp](https://www.freecodecamp.org/chlorella)
 <br />
 
 <!-- Optional Visitors badge: -->
