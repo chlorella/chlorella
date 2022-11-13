@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 <div><p>My overview: </p></div>
 
 ![Chlorella's github stats](https://github-readme-stats.vercel.app/api?username=chlorella&show_icons=true)
-![HackerRank](https://www.hackerrank.com/carmenchan23?hr_r=1)
-![FreeCodeCamp](https://www.freecodecamp.org/chlorella)
 <br />
 
 <!-- Optional Visitors badge: -->
