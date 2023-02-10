@@ -43,6 +43,11 @@ Here are some ideas to get you started:
 
 <br />
 
+![hyperskill](https://hyperskill.org/profile/702309)
+![freecodecamp](https://www.freecodecamp.org/chinese-traditional/chlorella)
+![hackerRank](https://www.hackerrank.com/chlorella23?hr_r=1)
+![leetcode](https://leetcode.com/problemset/all/)
+
 <div><p>Pins: </p></div>
 
 ![Codewar](https://www.codewars.com/users/chlorella/badges/small)
