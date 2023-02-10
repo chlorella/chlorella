@@ -41,9 +41,11 @@ Here are some ideas to get you started:
 
 ![Chlorella's github stats](https://github-readme-stats.vercel.app/api?username=chlorella&show_icons=true)
 <br />
+![Codewar](https://www.codewars.com/users/chlorella/badges/small)
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chlorella.chlorella)
+
 
 ⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
 
