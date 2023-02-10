@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <div><p>My overview: </p></div>
 
 ![Chlorella's github stats](https://github-readme-stats.vercel.app/api?username=chlorella&show_icons=true)
-<br />
-
 ![Codewar](https://www.codewars.com/users/chlorella/badges/small)
+
+<br />
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chlorella.chlorella)
